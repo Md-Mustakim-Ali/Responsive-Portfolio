@@ -1,16 +1,17 @@
-<div align="center">
+## 🌐 Live Demo
 
-# 👋 Welcome to My GitHub
+<p align="center">
+  <a href="https://mustakims-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
-### 💻 Full-Stack Developer | Software Engineering Enthusiast
+<p align="center">
+  <a href="https://mustakims-portfolio.netlify.app/">
+    <strong>🔗 mustakims-portfolio.netlify.app</strong>
+  </a>
+</p>
 
-<a href="https://mustakims-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-Visit%20Now-1E90FF?style=for-the-badge&logo=netlify&logoColor=white" />
-</a>
-
-<br><br>
-
-**🚀 Explore my portfolio:**  
-### 👉 https://mustakims-portfolio.netlify.app/
-
-</div>
+<p align="center">
+  Explore my projects, technical skills, experience, and contact information in my interactive portfolio.
+</p>
